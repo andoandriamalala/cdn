@@ -1,0 +1,679 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+    {
+        "type": "Feature",
+        "id": 1,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "Marais Restaurant",
+            "Location": "Route des hydrocarbures",
+            "ville": "Antananarivo Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.52354374535004, -18.887430682364837 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 2,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "Épicerie Gourmet",
+            "Location": "Zone Zital Ankorondrano",
+            "ville": "Antananarivo Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.52354374535004, -18.88457353581624 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 3,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "Épicerie Gourmet 2",
+            "Location": "Amabatobe",
+            "ville": "Antananarivo Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.559479486453746, -18.8784298917079 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 4,
+        "properties": { 
+            "TYPE": "Hotel",
+            "name": "Tsara Komba Lodge",
+            "Location": "Nosy Komba",
+            "ville": "Nosy Be - Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 48.356660221953135, -13.49647265476977 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 5,
+        "properties": { 
+            "TYPE": "Aéroport",
+            "name": "Aéroport d'Ivato",
+            "Location": "Ivato",
+            "ville": "Antananarivo Madagascar"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 47.47458714398851, -18.79930986249823 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 6,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "REPAIRE DE BACCHUS",
+            "Location": "40 Rue de Bretagne",
+            "ville": "75003 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.362326201673294, 48.86312663098674 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 7,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "REPAIRE DE BACCHUS",
+            "Location": "122 Rue Saint-Dominique",
+            "ville": "75007 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.3009400995167746, 48.85801783987244 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 8,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "REPAIRE DE BACCHUS",
+            "Location": "11 Rue le Marois",
+            "ville": "75016 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.261971654121421, 48.839050514825374 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 9,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "REPAIRE DE BACCHUS - PRINTEMPS DU GOUT",
+            "Location": "64 Boulevard Haussmann",
+            "ville": "75009 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.327716075935076, 48.87413633147235 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 10,
+        "properties": { 
+            "TYPE": "Restaurant ★",
+            "name": "LE CHIBERTA",
+            "Location": "3 Rue Arsène Houssaye",
+            "ville": "75008 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.297816170675162, 48.873577882971 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 11,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "VERDE BY YEELS",
+            "Location": "24 Avenue George V",
+            "ville": "75008 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.3015462162699802, 48.86773236343829 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 12,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "IMPERIAL TREASURE",
+            "Location": "44 Rue de Bassano",
+            "ville": "75008 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.2991617134973534, 48.870465559642916 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 13,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "POISSONERIE MOUFFETARD",
+            "Location": "107 Rue Mouffetard",
+            "ville": "75005 Paris"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.349729447478448, 48.84071553470703 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 14,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "POISSONERIE FORVILLE",
+            "Location": "6 Rue du Dr Pierre Gazagnaire",
+            "ville": "06400 Cannes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.011703643001222, 43.55173653026552 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 15,
+        "properties": { 
+            "TYPE": "Restaurant ★",
+            "name": "LE MANOIR DE LA REGATE",
+            "Location": "155 Route de Gachet",
+            "ville": "44300 Nantes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.526377434390816, 47.2936654543103 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 16,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "LA LAITERIE",
+            "Location": "138 Avenue de l'Hippodrome",
+            "ville": "59130 Lambersart"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.033257005353266, 50.64011254543763 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 17,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "AUX CAVES DE LA COTE D'OR",
+            "Location": "19 Rue Paul Doumer",
+            "ville": "77000 Melun"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.6606562303017514, 48.539505762133 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 18,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "CTB DISTRIBUTION",
+            "Location": "521 Rue Paulin Labarre",
+            "ville": "45160 Olivet"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.8969620377827294, 47.8587226676164 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 19,
+        "properties": { 
+            "TYPE": "Distributeur",
+            "name": "DU BEAU DU BON",
+            "Location": "Lieu dit Beauregard",
+            "ville": "87220 Boisseuil"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.3284085990487178, 45.77518882437362 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 20,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "EURL OLEG VINS",
+            "Location": "3 Place Di Marhalle",
+            "ville": "44350 Guerande"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -2.4267621776850574, 47.326878396872544 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 21,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "FONTAINE CAVALIER",
+            "Location": "Domaine Jeunot",
+            "ville": "58130 Urzy"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.1770098179757875, 47.03457398329364 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 22,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LA CAVE DK",
+            "Location": "14 Place Calonne",
+            "ville": "59140 Dunkerque"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 2.3837480686699353, 51.03580141016946 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 23,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LA RESERVE DU 20",
+            "Location": "20 Rue Grande",
+            "ville": "36200 Argenton sur Creuse"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.51845299436668, 46.58780910986925 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 24,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "L'ATABLE",
+            "Location": "20 Rue Raymond Poincarre",
+            "ville": "85000 La Roche sur Yon"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.434054623306553, 46.66895949586631 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 25,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "LE BOUCHON DU BOUCHER",
+            "Location": "3 Route de Nimes",
+            "ville": "30820 Caveirac"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.266469589848694, 43.822787585991755 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 26,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LE MARCHAND DE VINS",
+            "Location": "2 Boulevard Gambetta",
+            "ville": "30700 Uzes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.4184048063822665, 44.013261037504314 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 27,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "LE STRASBOURG",
+            "Location": "24 Rue du Colonel Teyssier",
+            "ville": "57230 Bitche"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.427098538388879, 49.05280698612391 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 28,
+        "properties": { 
+            "TYPE": "Fromagerie",
+            "name": "LES FROMAGES DE BRUNO",
+            "Location": "2 Rue de L'HOTEL de Ville",
+            "ville": "19100 Brive La Gaillarde"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 1.5323672506324475, 45.15830546034163 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 29,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "MAG K2 EVENT",
+            "Location": "L'enclos",
+            "ville": "25270 Septfontaines"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 6.18630826483976, 46.96131037291764 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 30,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "MARGUIN SARL",
+            "Location": "11 Avenue de Grande Bretagne",
+            "ville": "69006 Lyon"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.842891103852446, 45.77492162389521 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 31,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "PULPI FRUIT",
+            "Location": "1 Ter Rue des Cerisiers",
+            "ville": "17200 Royan"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.0247608461085043, 45.649097418813135 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 32,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "RESTAURANT ANGE GABRIEL",
+            "Location": "11 Rue des Fuseliers",
+            "ville": "51100 Reims"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.032840807031743, 49.25252070187384 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 33,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "RESTAURANT LA CARTE",
+            "Location": "36 Place de l'arbre Bonpain",
+            "ville": "59910 Bondues"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.091769723392851, 50.70361169207435 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 34,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "SARL LABATUD",
+            "Location": "12 Rue du 11 Novembre",
+            "ville": "17138 Puilboreau"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.12003020509105, 46.17309382487677 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 35,
+        "properties": { 
+            "TYPE": "Restaurant",
+            "name": "SARL LES TUILERIES",
+            "Location": "1601 Rue Henri Fievet",
+            "ville": "59310 Beuvry La Foret"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 3.2533504298138944, 50.45628346990958 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 36,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "SARL LPBV SPAR",
+            "Location": "1 Avenue Charles de Gaulle",
+            "ville": "05200 Embrun"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 6.497980204285518, 44.56668613698995 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 37,
+        "properties": { 
+            "TYPE": "Boutique",
+            "name": "SARL O SAVEURS DU PHARE",
+            "Location": "1 Route du Chassiron",
+            "ville": "17650 Saint Denis D'Oléron"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.401067509221639, 46.04261872209314 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 38,
+        "properties": { 
+            "TYPE": "CHR",
+            "name": "SARL XAG",
+            "Location": "16 Rue Carnot",
+            "ville": "86000 Poitiers"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 0.3390446483041696, 46.579571803230984 ] }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "type": "Feature",
+        "id": 40,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "POISSONNERIES DEVELAY",
+            "Location": "71 Boulevard Sadi Carnot",
+            "ville": "06110 Le Cannet"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.016446508755194, 43.5726591144708 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 41,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "EPIVIN",
+            "Location": "10 Rue de la Taillanderie",
+            "ville": "68720 Tagolsheim"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 7.266438331657825, 47.657933757337155 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 42,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "LE PARVIS REGALIA",
+            "Location": "2 Rue Rockfeller",
+            "ville": "51100 Reims"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.031998544973547, 49.25320697236505 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 43,
+        "properties": { 
+            "TYPE": "Cave",
+            "name": "EPICUR'VINS JMD & CO",
+            "Location": "20 Rue Michael Faraday",
+            "ville": "72100 Le Mans"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 0.18449561747842777, 47.960955245416976 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 44,
+        "properties": { 
+            "TYPE": "Poissonnerie",
+            "name": "SARL LES 2 PORTES",
+            "Location": "1 Rue du Printemps",
+            "ville": "17880 Les Portes en Ré"
+        },
+        "geometry": { "type": "Point", "coordinates": [ -1.4993549474098993, 46.2491753922649 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 45,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "LES PLAISIRS DE LA TABLE",
+            "Location": "1 Rue Racine",
+            "ville": "3000 Nimes"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.354917834353079, 43.83720213572755 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 46,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "LUXE & VOLUPTE",
+            "Location": "le Grand Pavois III, 116 Rue du Port",
+            "ville": "34280 La Grande-Motte - France"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.084124553158992, 43.55928936978874 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 47,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "Giovanni's Deliworld",
+            "Location": "103 Main Rd, Green Point",
+            "ville": "Cape Town - South Africa"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 18.409635029193726, -33.90796007463129 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 48,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "The French Market",
+            "Location": "Shop 5b (Upper Level), Gardens Shopping Centre, Upper Buitenkant St, Oranjezicht",
+            "ville": "Cape Town 8001 - South Africa"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 18.417569204256328, -33.93423111625729 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 49,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "Wild Peacock",
+            "Location": "16 Stoffel Smit Rd, Plankenbrug",
+            "ville": "Stellenbosch 7600 - Afrique du Sud"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 18.85244569108745, -33.929637236404076 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 50,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "La Cotte In",
+            "Location": "Louis Botha St",
+            "ville": "Franschhoek 7690 - Afrique du Sud"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 19.11752975788323, -33.90746381535726 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 51,
+        "properties": { 
+            "TYPE": "Épicerie",
+            "name": "La Marina Foods",
+            "Location": "7 platinum Dr, Longmeadow, North Business Park",
+            "ville": "Lethabong 2090 - Afrique du Sud"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 28.14342419589958, -26.109450186155325 ] }
+    },
+
+
+    {
+        "type": "Feature",
+        "id": 52,
+        "properties": { 
+            "TYPE": "Épicerie fine",
+            "name": "HOP!",
+            "Location": "Avenue des Celtes 22",
+            "ville": "1040 Etterbeek - Belgique"
+        },
+        "geometry": { "type": "Point", "coordinates": [ 4.398079800753704, 50.83851797020707 ] }
+    }
+
+]
+}
